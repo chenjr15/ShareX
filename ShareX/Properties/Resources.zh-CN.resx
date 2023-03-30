@@ -625,4 +625,7 @@
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>无法找到指定窗口标题的窗口。</value>
   </data>
+    <data name="PinToScreen" xml:space="preserve">
+    <value>钉在屏幕上</value>
+  </data>
 </root>
